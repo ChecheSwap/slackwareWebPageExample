@@ -1,0 +1,177 @@
+#slackwareimage
+{
+	top:0px;
+	text-align: center;
+	bottom: 0px;
+	width: 100%;
+}
+
+.polyum
+{
+	
+	width: 85%;
+	margin-left: 3%;
+	margin-right: 0px;
+}
+
+.tabla_izquierda
+{
+	margin-top:8.75%;
+	
+	text-align: center;
+}
+#postca
+{
+
+	margin-left: 2px;
+
+	line-height:32px;
+	font-size: 20px;
+	font-weight: bold;
+	color: gray;
+	text-align: left;
+	font-family: 
+}
+
+#cmos
+{
+	text-align: center;
+	
+
+}
+
+
+#staticborman
+{
+
+
+	border-right: 0px;
+	border-left: 0px;
+	border-bottom: 0px;
+	border-top: 1px;
+	border-color: white;
+	border-style: solid;
+	
+	
+	position: center;
+	color: white;
+	font-size:15px;
+	font-family:initial;
+	font-style: oblique;
+	text-align: center;
+	
+	margin: 0px;
+	padding: 10px;
+}
+#borman
+{
+
+	width: 150px;
+	height: 80px;
+}
+
+#geniusk
+{
+margin-top: 0px;
+	width:201px;
+	height: 62px;
+}
+
+.orcons
+{
+	border: 0px;
+}
+
+#fresco
+{
+	float: right;
+	height: 32px;
+	margin-right: 1.70%;
+}
+
+#opium1
+{
+	margin: 2px;
+}
+
+#scar
+{
+	margin-top: 35px;
+	width: 50%;
+
+
+}
+
+.m100
+{
+	width: 100px;
+	height: 100px;
+}
+
+#zambessi0
+{
+	float: left;
+	margin-left: 2.75%;
+}
+#zambessi1
+{
+	float: right;
+	margin-right: 2.75%;
+}
+
+.fuhrer
+{
+	width: 50%;
+	margin: 35px;
+	margin-left: 0px;
+	margin-top: 5px;
+	float: left;
+
+
+}
+#toleft
+{
+	float:right;
+}
+.zonke
+{
+	
+	width: auto;
+	margin-left: 25px;
+	margin-right: 25px;
+	height: auto;
+	overflow: hidden;
+
+}
+
+
+#clam{
+	
+	width: 100%
+}
+
+.marx
+{
+	margin-top: 25px;
+	text-align: center;
+}
+
+.caprice
+{
+	color: #000080;
+	font-family: georgia;
+	font-weight: bold;
+	text-align: justify;
+	font-size: 20px;
+}
+
+.control
+{
+	vertical-align: center;
+	margin-top: 35px;
+	margin-bottom: 25px;
+	background-color: transparent;
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
